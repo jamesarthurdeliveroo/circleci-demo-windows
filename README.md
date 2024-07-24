@@ -12,7 +12,7 @@ The [CI pipeline](.circleci/config.yml) contains two distinct workflows:
 - `integration-tests` - This contains two different test strategies that can be used with CircleCI Windows executor:
   - `browser-tests` -  This is a simple integration test using a Web Browser to navigate to a page and assert its contents.
   - `ui-tests`- This is a simple test for a native Windows App (Notepad) using `WinAppDriver`.
-- 
+
 
 
 
